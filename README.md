@@ -1,7 +1,7 @@
 ### Hi there, I'm Ibrahim 👋
 
 
-## I'm a Husband, Father, Data Scientist, and Physician!!
+## I'm a Physician with great passion for AI!!
 
 - 🌱 I’m currently learning everything AI in Strive School
 - 👯 I’m looking to collaborate with anyone interested in AI
