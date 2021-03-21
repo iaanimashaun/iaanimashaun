@@ -53,10 +53,14 @@
   <img align="left" alt="Ibrahim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iaanimashaun&show_icons=true&hide_border=true" />
 
 </details>
+---
 
-<connect>
+<br>
+
+<details>
+   <summary>:zap: Connect </summary>
 [twitter]: https://twitter.com/iaanimashaun
 [instagram]: https://www.instagram.com/iaanimashaun/
 [linkedin]: https://www.linkedin.com/in/iaanimashaun/
-</connect>
+</details>
 
