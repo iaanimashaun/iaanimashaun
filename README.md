@@ -11,9 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ibrahim | LinkedIn" width="22px" src="https://www.linkedin.com/in/iaanimashaun/" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
