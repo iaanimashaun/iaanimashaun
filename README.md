@@ -1,11 +1,16 @@
-### Hi there, I'm Ibrahim 👋
 
 
-## I'm a Physician with great passion for AI
+## Hi there 👋, my name is Ibrahim
+### AI Enthusiast | Medical Doctor.
 
-- 🌱 I’m currently learning everything AI in Strive School
+I am a medical professional with great passion for artificial intelligence and how it can be applied to enhance the healthcare industry. 
+
+
+- 🔭 I’m currently working on Multi-Label Chest Xray Classification 
+- 🌱 I’m currently learning Everything AI at  ([Strive School](https://strive.school/)) 
 - 👯 I’m looking to collaborate with anyone interested in AI
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Anything and Everything 
+
 
 
 
@@ -45,22 +50,22 @@
 
 <br />
 
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ibrahim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iaanimashaun&show_icons=true&hide_border=true" />
 
-</details>
----
 
-<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iaanimashaun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iaanimashaun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iaanimashaun)  
 
-<details>
-   <summary>:zap: Connect </summary>
-[twitter]: https://twitter.com/iaanimashaun
-[instagram]: https://www.instagram.com/iaanimashaun/
-[linkedin]: https://www.linkedin.com/in/iaanimashaun/
-</details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=iaanimashaun)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaanimashaun)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iaanimashaun&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iaanimashaun)  
+
+![GitHub metrics](https://metrics.lecoq.io/iaanimashaun)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iaanimashaun)  
+
+![Profile views](https://gpvc.arturio.dev/iaanimashaun)  
