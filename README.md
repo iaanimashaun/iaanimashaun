@@ -6,7 +6,7 @@
 I am a medical professional with great passion for artificial intelligence and how it can be applied to enhance the healthcare industry. 
 
 
-- 🔭 I’m currently working on Multi-Label Chest Xray Classification 
+
 - 🌱 I’m currently learning Everything AI at  ([Strive School](https://strive.school/)) 
 - 👯 I’m looking to collaborate with anyone interested in AI
 - 💬 Ask me about Anything and Everything 
