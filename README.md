@@ -57,7 +57,6 @@ I am a medical professional with great passion for artificial intelligence and h
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iaanimashaun&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iaanimashaun)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iaanimashaun)  
 
