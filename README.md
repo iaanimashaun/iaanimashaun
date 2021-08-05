@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋, my name is Ibrahim
-### AI Engineer | Medical Doctor.
+### ML Engineer | Medical Doctor.
 
 I am a medical professional with great passion for artificial intelligence and how it can be applied to enhance the healthcare industry. 
 
