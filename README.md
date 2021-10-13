@@ -12,7 +12,7 @@ I am a medical professional with great passion for artificial intelligence and h
 ### Languages and Tools:
 
 <br>
-<img align="left" alt="Keras" width="64px" src="https://www.learnbay.co/data-science-course/wp-content/uploads/2019/03/keras-logo-2018-large-1200.png" />
+<img align="left" alt="Keras" width="64px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnjtrainingacademy.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fkeras-1.png&f=1&nofb=1" />
 
 <img align="left" alt="Pytorch" width="64px" src="https://dev.infohub.cc/wp-content/uploads/2019/04/PyTorch.jpg" />
 
