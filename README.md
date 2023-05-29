@@ -2,15 +2,16 @@
 
 <h1 align="center">
 Hi there 👋,  I'm Ibrahim Animashaun!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/iaanimashaun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
 	<a href="https://github.com/iaanimashaun">
-		<img src="https://komarev.com/ghpvc/?username=iaanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="iaanimashaun" />
+<!-- 		<img src="https://komarev.com/ghpvc/?username=iaanimashaun&label=Profile%20views&color=0e75b6&style=flat" alt="iaanimashaun" /> -->
+		<img src="https://gpvc.arturio.dev/iaanimashaun" alt="iaanimashaun" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/iaanimashaun">
 		<img src="https://img.shields.io/github/followers/iaanimashaun?label=Followers" alt="iaanimashaun" />
 	</a>
 </p>
