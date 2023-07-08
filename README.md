@@ -184,7 +184,16 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 
 
+
+
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/iaanimashaun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/iaanimashaun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='60'>](https://twitter.com/iaanimashaun)  
+
+
+-->
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iaanimashaun)](https://github.com/ryo-ma/github-profile-trophy)
 
