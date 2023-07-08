@@ -18,7 +18,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 <br/>
 <p align="center">
 	<a href="https://github.com/iaanimashaun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Medical+Doctor;Data+Scientist;ML/DevOps+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=ML+Engineer;DevOps+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -26,16 +26,17 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 
 
-<!-- <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+<pre>
+💻 I am a self-taught Programmer 
+📚 I have a Medical Degree and a Masters in AI
+📝 I have a strong interest in Artificial Intelligence for Healthcare
+🔭 Working on Deep Learning & Computer Vision
+🌱 Expanding my knowledge of DevOps tools, practices, and methodologies
+🌟 Main language: Python
+</pre>
+<!-- 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre> -->
+-->
 
 <!-- 
 ## 🤝 Connect with me
@@ -51,19 +52,25 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 
 
----
+
 
 
 **Languages and Tools:**
 
 <p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
+  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<!--   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> -->
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code> 
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="15%" src="https://camo.githubusercontent.com/86dafd728b94c0e3c8f19a7295e87df678ed6751/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
@@ -71,18 +78,19 @@ Hi there 👋,  I'm Ibrahim Animashaun!
    <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <br />
+    <code><img width="15%" src="https://clipground.com/images/css3-png-10.png"></code>
+
 </p>
 
 
 
----
 
-
-
----
 <!-- 
 
 ## 🛠️ My Favorite Tools
