@@ -29,9 +29,9 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 <pre>
 💻 I am a self-taught Programmer 
 📚 I have a Medical Degree and a Masters in AI
-📝 I have a strong interest in Artificial Intelligence for Healthcare
-🔭 Working on Deep Learning & Computer Vision
-🌱 Expanding my knowledge of DevOps tools, practices, and methodologies
+📝 Highly motivated, Problem Solver and a Self Starter
+🔭 Working on Deep Learning & Computer Vision Projects
+🌱 Implementing and managing DevOps practices and methodologies across various projects 
 🌟 Main language: Python
 </pre>
 <!-- 🚩 Interested in Full Stack Machine Learning Application development
@@ -55,7 +55,8 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 
 
-**Languages and Tools:**
+# ***Tech Stack:***
+
 
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
