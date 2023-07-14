@@ -85,11 +85,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
   <code><img width="15%" src="https://camo.githubusercontent.com/86dafd728b94c0e3c8f19a7295e87df678ed6751/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <br />
-
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-   <br />
+    <code><img width="15%" src="https://i.pinimg.com/736x/02/2a/e5/022ae5d9b09ac07dc5dc35792984fc92--sql-tutorial-sql-server.jpg"></code>
     <code><img width="15%" src="https://clipground.com/images/css3-png-10.png"></code>
 
 </p>
