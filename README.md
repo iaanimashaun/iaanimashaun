@@ -26,13 +26,19 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 
 
+
 <pre>
-💻 I am a self-taught Programmer 
-📚 I have a Medical Degree and a Masters in AI
-📝 Engineer at Heart, Highly Motivated, Problem Solver and a Self Starter
-🔭 Enjoys the Challenge of Building Elegant Solutions
-🌱 Implements and manages DevOps practices and methodologies across various projects 
-🌟 Main language: Python
+- Self-taught Programmer 
+- Python virtuoso
+- Medical Degree and Masters in AI
+- Engineer at Heart, Highly Motivated, Problem Solver and a Self Starter
+- Armed with Creativity and Technical Prowess, Find Joy in Tackling Challenges Head-on
+- Overcome Challenges with Unwavering Determination
+- Driving Force Behind Implementing, Managing and Breathing Life into Diverse Projects 
+- Embodies the Spirit of Continuous Learning and Growth
+
+<!-- - Orchestrating Success Across Projects -->
+<!-- 🌟 Main language: Python -->
 </pre>
 <!-- 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
