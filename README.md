@@ -76,7 +76,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
   <br />
   <code><img width="15%" src="https://miro.medium.com/v2/resize:fit:1200/1*qcYs-UPEV_xhDFUeTiCdeg.png"></code>
   <code><img width="15%" src="https://4.bp.blogspot.com/-NSt8-fdedCA/XNhZFIO-6bI/AAAAAAAAPH0/UtHoWYNyXYg-kzVBu6E4O-BMYP-7GlQNACLcBGAs/w1200-h630-p-k-no-nu/SonarQubeIcon.png"></code>
-  <code><img width="15%" src="http://clusterfrak.com/img/vendor/nexus-banner.png"></code>
+  <code><img width="15%" src="https://i0.wp.com/blog.moon.cat/wp-content/uploads/2017/06/Nexus.png"></code>
   
   <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
@@ -90,7 +90,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://camo.githubusercontent.com/86dafd728b94c0e3c8f19a7295e87df678ed6751/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"></code>
+  <code><img width="15%" src="https://www.stxnext.com/hs-fs/hubfs/STX%20Next%202020/blog/images/fastapi.png__730x250_q85_crop_subsampling-2_upscale.png?width=730&name=fastapi.png__730x250_q85_crop_subsampling-2_upscale.png"></code>
   <code><img width="15%" src="https://clipground.com/images/css3-png-10.png"></code>
 
   <br />
