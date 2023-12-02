@@ -56,6 +56,12 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 <!--
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
+
+
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 -->
 
 
@@ -74,6 +80,16 @@ Hi there 👋,  I'm Ibrahim Animashaun!
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <!--   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> -->
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code> 
+
+
+
+   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="15%" src="https://coralogix.com/wp-content/uploads/2017/03/no-free-elk-stack.png"></code>
+  <code><img width="15%" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg"></code>
+
+
+  
   <br />
   <code><img width="15%" src="https://miro.medium.com/v2/resize:fit:1200/1*qcYs-UPEV_xhDFUeTiCdeg.png"></code>
   <code><img width="15%" src="https://4.bp.blogspot.com/-NSt8-fdedCA/XNhZFIO-6bI/AAAAAAAAPH0/UtHoWYNyXYg-kzVBu6E4O-BMYP-7GlQNACLcBGAs/w1200-h630-p-k-no-nu/SonarQubeIcon.png"></code>
@@ -85,10 +101,6 @@ Hi there 👋,  I'm Ibrahim Animashaun!
     <code><img width="15%" src="https://i.pinimg.com/736x/02/2a/e5/022ae5d9b09ac07dc5dc35792984fc92--sql-tutorial-sql-server.jpg"></code>
 
 
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="15%" src="https://www.stxnext.com/hs-fs/hubfs/STX%20Next%202020/blog/images/fastapi.png__730x250_q85_crop_subsampling-2_upscale.png?width=730&name=fastapi.png__730x250_q85_crop_subsampling-2_upscale.png"></code>
