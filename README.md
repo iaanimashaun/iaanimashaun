@@ -54,8 +54,9 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 </p> -->
 
 
+<!--
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
-
+-->
 
 
 
