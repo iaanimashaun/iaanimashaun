@@ -28,8 +28,9 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
 
 <pre>
-- Engineer at Heart, Highly Motivated, Problem Solver and a Self Starter
-- Armed with Creativity and Technical Prowess, Find Joy in Tackling Challenges Head-on
+- Highly Motivated, Problem Solver and a Self Starter
+- Armed with Creativity and Technical Prowess 
+- Find Joy in Tackling Challenges Head-on
 - Overcome Challenges with Unwavering Determination
 - Driving Force Behind Implementing, Managing and Breathing Life into Diverse Projects 
 - Embodies the Spirit of Continuous Learning and Growth
