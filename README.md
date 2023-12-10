@@ -18,7 +18,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 <br/>
 <p align="center">
 	<a href="https://github.com/iaanimashaun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+Engineer;ML+Engineer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+Engineer&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -55,6 +55,8 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 <!--
 <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="30%" align="right"/>
 
+
+;ML+Engineer;Always%20learning%20new%20things
 
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
