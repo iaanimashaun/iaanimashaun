@@ -18,7 +18,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 <br/>
 <p align="center">
 	<a href="https://github.com/iaanimashaun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Cloud+Engineer&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=ML+Engineer;DevOps+Engineer&center=true&width=380&height=45">
 	</a>
 </p>
 
