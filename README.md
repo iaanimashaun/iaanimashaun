@@ -85,7 +85,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
 
    <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://coralogix.com/wp-content/uploads/2017/03/no-free-elk-stack.png"></code>
+  <code><img width="15%" src="https://www.skedler.com/blog/wp-content/uploads/2021/08/grafana-logo.png"></code>
   <code><img width="15%" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg"></code>
 
 
@@ -98,14 +98,13 @@ Hi there 👋,  I'm Ibrahim Animashaun!
   <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-    <code><img width="15%" src="https://i.pinimg.com/736x/02/2a/e5/022ae5d9b09ac07dc5dc35792984fc92--sql-tutorial-sql-server.jpg"></code>
+    <code><img width="15%" src="https://www.thesmbguide.com/images/postgresql-1024x512-20180911.jpg"></code>
 
 
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.stxnext.com/hs-fs/hubfs/STX%20Next%202020/blog/images/fastapi.png__730x250_q85_crop_subsampling-2_upscale.png?width=730&name=fastapi.png__730x250_q85_crop_subsampling-2_upscale.png"></code>
   <code><img width="15%" src="https://clipground.com/images/css3-png-10.png"></code>
-
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+  <code><img width="15%" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/FastAPI_b.jpg"></code>
   <br />
 
 </p>
