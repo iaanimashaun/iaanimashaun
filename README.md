@@ -93,7 +93,7 @@ Hi there 👋,  I'm Ibrahim Animashaun!
   <br />
   <code><img width="15%" src="https://miro.medium.com/v2/resize:fit:1200/1*qcYs-UPEV_xhDFUeTiCdeg.png"></code>
   <code><img width="15%" src="https://4.bp.blogspot.com/-NSt8-fdedCA/XNhZFIO-6bI/AAAAAAAAPH0/UtHoWYNyXYg-kzVBu6E4O-BMYP-7GlQNACLcBGAs/w1200-h630-p-k-no-nu/SonarQubeIcon.png"></code>
-  <code><img width="15%" src="https://i0.wp.com/blog.moon.cat/wp-content/uploads/2017/06/Nexus.png"></code>
+  <code><img width="15%" src="https://4.bp.blogspot.com/-gmSgSVsYE1I/V7gz2vQhb8I/AAAAAAAAF90/LyUCQYMrwQUi3AZ6oO2QbWPuGWHrnDVZACLcB/s1600/Capture2.PNG"></code>
   
   <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
